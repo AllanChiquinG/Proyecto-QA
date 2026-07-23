@@ -31,3 +31,6 @@ automática mediante un Quality Gate en cada Pull Request.
 - Pull Request de validación: https://github.com/AllanChiquinG/Proyecto-QA/pull/4
 - Resultado del Quality Gate: [docs/quality/QualityGate.md](docs/quality/QualityGate.md)
 
+
+## Cambios Diego
+- unicamente estoy agregando este texto para empezar a probar y concretar todo
