@@ -11,7 +11,8 @@ críticas de calidad (CTQ), criterios de completado (DoD) y validación
 automática mediante un Quality Gate en cada Pull Request.
 
 ## Integrantes
-- [Tu nombre] - [Carné]
+- Angel Allan Francisco Chiquin Gomez - 4090-22-3819
+- Diego Jose Hernandez Catellanos - 4090-22-1346
 
 ## Stack tecnológico
 - HTML5, CSS3, JavaScript (Vanilla)
@@ -24,9 +25,9 @@ automática mediante un Quality Gate en cada Pull Request.
 - `.github/workflows/` → workflow del Quality Gate
 
 ## Enlaces de evidencia
-- Project (tablero): [pendiente]
+- Project (tablero): https://github.com/users/AllanChiquinG/projects/1
 - Matriz CTQ: [docs/quality/CTQ.md](docs/quality/CTQ.md)
 - Definition of Done: [docs/quality/DoD.md](docs/quality/DoD.md)
-- Pull Request de validación: [pendiente]
-- Resultado del Quality Gate: [pendiente]
+- Pull Request de validación: https://github.com/AllanChiquinG/Proyecto-QA/pull/4
+- Resultado del Quality Gate: [docs/quality/QualityGate.md](docs/quality/QualityGate.md)
 
