@@ -30,8 +30,4 @@ Validaciones ejecutadas:
 | CTQ-002 | Pendiente | Must |
 | CTQ-003 | Pendiente | Should |
 
-## Limitaciones documentadas
-- No se configuró la regla de protección de rama (branch protection) para
-  exigir el status check "quality-gate" antes del merge, dado que se trata
-  de un repositorio personal de práctica académica. La validación del gate
-  se evidenció manualmente en el Pull Request #4.
++
