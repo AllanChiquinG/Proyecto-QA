@@ -34,3 +34,5 @@ automática mediante un Quality Gate en cada Pull Request.
 
 ## Cambios Diego
 - unicamente estoy agregando este texto para empezar a probar y concretar todo
+
+- cambios 2 
